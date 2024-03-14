@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+     <title>input your title</title>
+</head>
+<body>
+     <h1>Login page</h1>
+     <p>username:</p>
+     <inputname="username">
+     <p>password:</p>
+     <input name="password">
+     <button>Login</button>
+</body>
+</html>
